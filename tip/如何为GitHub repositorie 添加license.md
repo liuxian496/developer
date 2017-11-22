@@ -1,4 +1,4 @@
-# 为GitHub repositorie 添加license
+## 为GitHub repositorie 添加license
 
 1. 点击进入**repositorie**。
 2. 选择要添加的分支。
